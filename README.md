@@ -20,23 +20,6 @@ By applying **Ordinary Least Squares (OLS) regression** and a **Probit model**, 
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-marriage-cheating-econometrics/
-│
-├── code/
-│   ├── EconFinalProject.Rmd    # Full R Markdown analysis (source)
-│   └── EconFinalProject.html   # Rendered HTML report with all outputs
-│
-├── slides/
-│   └── Econometrics__Final_Presentation.pdf
-│
-└── README.md
-```
-
----
-
 ## 📊 Dataset
 
 ### Source
